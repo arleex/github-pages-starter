@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/spaco/github-pages/blob/master/doc/github_pages.png?raw=true">
+    <img width="200" src="https://github.com/arleex/github-pages-starter/blob/master/doc/github_pages.png?raw=true">
 </p>
 
 <h1 align="center">A script to build Github Pages quickly </h1>
@@ -21,13 +21,12 @@ English | [简体中文](./README-zh_CN.md)
 ## 📦 Install
 
 ```bash
-git clone git@github.com:spaco/github-pages.git
+git clone git@github.com:arleex/github-pages-starter.git
 ```
 
 ## 🔨 Usage
 
 ```bash
-cd github-pages
 ./app/hexo/install.sh -h
 ```
 
@@ -44,7 +43,7 @@ install.sh -f <blog_folder> -u <github_username> -s <github_personal_access_toke
 Example:
 
 ```bash
-./app/hexo/install.sh -f /Users/spaco/blog/hexo -u spaco -s GITHUB_PERSONAL_ACCESS_TOKEN
+./app/hexo/install.sh -f  ~/blog/hexo -u your_user_name -s GITHUB_PERSONAL_ACCESS_TOKEN
 ```
 
 ## 🔗 Links
@@ -59,13 +58,6 @@ Example:
 
 Use Gitpod, a free online dev environment for GitHub.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/spaco/github-pages)
-
-## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-We welcome all contributions. You can submit any ideas as [pull requests](https://github.com/spaco/github-pages/pulls) or as [GitHub issues](https://github.com/spaco/github-pages/issues). 
-
-If you are a collaborator, please follow our [Pull Request principle](https://github.com/spaco/github-pages/wiki/PR-principle) to create a Pull Request by [collaborator template](https://github.com/spaco/github-pages/compare?expand=1&template=collaborator.md).
 
 ## 🤔️ FAQ
 - How should I choose scopes when I create github personal access token

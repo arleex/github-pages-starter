@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/spaco/github-pages/blob/master/doc/github_pages.png?raw=true">
+    <img width="200" src="https://github.com/arleex/github-pages-starter/blob/master/doc/github_pages.png?raw=true">
 </p>
 
 <h1 align="center">A script to build Github Pages quickly </h1>
@@ -58,15 +58,10 @@ Example:
 
 Use Gitpod, a free online dev environment for GitHub.
 
-## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-We welcome all contributions. You can submit any ideas as [pull requests](https://github.com/spaco/github-pages/pulls) or as [GitHub issues](https://github.com/spaco/github-pages/issues). 
-
-If you are a collaborator, please follow our [Pull Request principle](https://github.com/spaco/github-pages/wiki/PR-principle) to create a Pull Request by [collaborator template](https://github.com/spaco/github-pages/compare?expand=1&template=collaborator.md).
 
 ## 🤔️ FAQ
 - How should I choose scopes when I create github personal access token
 
     <p>
-        <img width="200" src="https://github.com/spaco/github-pages/blob/master/doc/github_personal_access_token_scopes.png?raw=true">
+        <img width="200" src="https://github.com/arleex/github-pages-starter/blob/master/doc/github_personal_access_token_scopes.png?raw=true">
     </p>
