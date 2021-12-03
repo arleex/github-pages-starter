@@ -11,6 +11,7 @@ English | [简体中文](./README-zh_CN.md)
 - 🎨 Powerful theme customization for Hexo.
 - 🌈 Support for Hugo
 - 📦 Support for jekyll
+- Custom theme
 
 ## 🖥 Environment Support
 
@@ -46,6 +47,10 @@ Example:
 ./app/hexo/install.sh -f  ~/blog/hexo -u your_user_name -s GITHUB_PERSONAL_ACCESS_TOKEN
 ```
 
+Demo
+```
+https://arleex.github.io/
+```
 ## 🔗 Links
 
 - [Home page]()
