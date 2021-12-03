@@ -99,9 +99,7 @@ hexo init "${blog_folder}"
 # copy github actions script to blog_folder
 # shellcheck disable=SC2164
 cd "${script_file_folder}"
-mkdir -p "${blog_folder}/.github/workflows"
-cp deploy.yaml "${blog_folder}/.github/workflows/deploy.yaml"
-
+cp -r ./app/hexo/.github "${blog_folder}"
 echo_green "push hexo to github ..."
 
 # shellcheck disable=SC2164

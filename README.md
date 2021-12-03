@@ -5,7 +5,7 @@
 <h1 align="center">A script to build Github Pages quickly </h1>
 
 English | [简体中文](./README-zh_CN.md)
-
+ 
 ## ✨ Features
 
 - 🎨 Powerful theme customization for Hexo.
